@@ -2,8 +2,8 @@
 
 
 $host = "127.0.0.1";
-$username = "root";
-$password = "2q9.0z8";
+$username = "oandac";
+$password = "123321";
 $db = "oandac";
 
 
