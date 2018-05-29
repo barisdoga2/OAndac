@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1460f9a-df66-4856-a20f-cb979193dd91" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/cemreProfile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/suhedaProfile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutUs.php" beforeDir="false" afterPath="$PROJECT_DIR$/aboutUs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allYearBooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/allYearBooks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1JHIH.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/77Rj6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/8dgtw.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gz3ey.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_3477.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/TLiZV.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ThAWU.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cFXcn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/evGob.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/exyog.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jRrBO.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/l1KUm.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pjuGF.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s1haA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/v4YFh.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wCgR5.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftPane.php" beforeDir="false" afterPath="$PROJECT_DIR$/leftPane.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainPage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myEnrolledYearBooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/myEnrolledYearBooks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/viewYearBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/viewYearBook.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yearBooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/yearBooks.php" afterDir="false" />
-    </list>
+    <list default="true" id="c1460f9a-df66-4856-a20f-cb979193dd91" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +14,8 @@
       <file leaf-file-name="viewYearBook.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/viewYearBook.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="61" column="72" lean-forward="true" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
+            <state relative-caret-position="30">
+              <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -180,16 +150,15 @@
       <updated>1527524941194</updated>
       <workItem from="1527524942531" duration="6704000" />
       <workItem from="1527534035572" duration="9899000" />
-      <workItem from="1527544211906" duration="24698000" />
+      <workItem from="1527544211906" duration="25266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41301000" />
+    <option name="totallyTimeSpent" value="41869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14275256" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -426,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/viewYearBook.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="61" column="72" lean-forward="true" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
+        <state relative-caret-position="30">
+          <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
         </state>
       </provider>
     </entry>
