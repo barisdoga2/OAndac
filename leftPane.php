@@ -47,12 +47,6 @@
             <span class="nav-link-text">Hakkımızda</span>
         </a>
     </li>
-    <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Galeri">
-        <a class="nav-link" href="index.php?task=gallery">
-            <i class="fa fa-fw fa-table"></i>
-            <span class="nav-link-text">Galeri</span>
-        </a>
-    </li>
     <li class="nav-item" data-toggle="tooltip" data-placement="right" title="İletişim">
         <a class="nav-link" href="index.php?task=contact">
             <i class="fa fa-fw fa-table"></i>

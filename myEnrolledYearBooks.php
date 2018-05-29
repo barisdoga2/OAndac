@@ -32,7 +32,8 @@
                         $sql = $conn->query("SELECT * FROM yearbook_apps_enrolls WHERE creator_id='".$_SESSION["id"]."' AND status='".YEARBOOK_ENROLL_APPROVED."'");
 
                         while($row = $sql->fetch_assoc()){
-                            $yearbook = $conn->query("SELECT * FROM yearbooks WHERE id='".$row["id"]."'")->fetch_assoc();
+                            echo "Hey";
+                            $yearbook = $conn->query("SELECT * FROM yearbooks WHERE id='".$row["yearbook_app_id"]."'")->fetch_assoc();
                             $creator = $conn->query("SELECT * FROM users WHERE id='".$yearbook["creator_id"]."' LIMIT 1")->fetch_assoc();
                             ?>
                             <tr>

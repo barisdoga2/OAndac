@@ -2,21 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1460f9a-df66-4856-a20f-cb979193dd91" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allYearBooks.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manageYearBook.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myEnrolledYearBooks.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myYearBookApps.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myYearBooks.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newYearBookApp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/viewYearBook.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yearBooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cemreProfile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/suhedaProfile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutUs.php" beforeDir="false" afterPath="$PROJECT_DIR$/aboutUs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allYearBooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/allYearBooks.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1JHIH.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/77Rj6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8dgtw.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Gz3ey.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG_3477.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TLiZV.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ThAWU.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cFXcn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/evGob.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/exyog.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jRrBO.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/l1KUm.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pjuGF.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s1haA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/v4YFh.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wCgR5.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leftPane.php" beforeDir="false" afterPath="$PROJECT_DIR$/leftPane.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myEnrolledYearBooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/myEnrolledYearBooks.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewYearBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/viewYearBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yearBooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/yearBooks.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.php">
+      <file leaf-file-name="viewYearBook.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/viewYearBook.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="91" column="10" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="91" selection-end-column="10" />
+            <state relative-caret-position="330">
+              <caret line="61" column="72" lean-forward="true" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -39,38 +53,8 @@
       <file leaf-file-name="allYearBooks.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/allYearBooks.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manageYearBook.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manageYearBook.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-              <folding>
-                <element signature="n#button#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myYearBookApps.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myYearBookApps.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="416">
+              <caret line="56" column="66" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -82,6 +66,8 @@
       <find>show</find>
       <find>&lt;div</find>
       <find>AA</find>
+      <find>Galeri</find>
+      <find>date</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -92,10 +78,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/content.php" />
-        <option value="$PROJECT_DIR$/mainPage.php" />
         <option value="$PROJECT_DIR$/gallery.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/aboutUs.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/logout.php" />
         <option value="$PROJECT_DIR$/login.php" />
@@ -105,20 +88,23 @@
         <option value="$PROJECT_DIR$/profile.php" />
         <option value="$PROJECT_DIR$/logo.php" />
         <option value="$PROJECT_DIR$/dbConnect.php" />
-        <option value="$PROJECT_DIR$/leftPane.php" />
         <option value="$PROJECT_DIR$/tmp/tables.html" />
         <option value="$PROJECT_DIR$/myYearBooksAndApps.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/newYearBookApp.php" />
-        <option value="$PROJECT_DIR$/yearBooks.php" />
-        <option value="$PROJECT_DIR$/myEnrolledYearBooks.php" />
         <option value="$PROJECT_DIR$/myYearBooks.php" />
         <option value="$PROJECT_DIR$/myYearBookApps.php" />
-        <option value="$PROJECT_DIR$/viewYearBook.php" />
         <option value="$PROJECT_DIR$/manageYearBook.php" />
-        <option value="$PROJECT_DIR$/allYearBooks.php" />
         <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/leftPane.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/aboutUs.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/yearBooks.php" />
+        <option value="$PROJECT_DIR$/mainPage.php" />
+        <option value="$PROJECT_DIR$/myEnrolledYearBooks.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/allYearBooks.php" />
+        <option value="$PROJECT_DIR$/viewYearBook.php" />
       </list>
     </option>
   </component>
@@ -194,12 +180,12 @@
       <updated>1527524941194</updated>
       <workItem from="1527524942531" duration="6704000" />
       <workItem from="1527534035572" duration="9899000" />
-      <workItem from="1527544211906" duration="18794000" />
+      <workItem from="1527544211906" duration="24698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35397000" />
+    <option name="totallyTimeSpent" value="41301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="743" extended-state="6" />
@@ -263,27 +249,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/mainPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="839" column="24" lean-forward="true" selection-start-line="839" selection-start-column="24" selection-end-line="839" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutUs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/forgotPassword.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -312,24 +277,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="97" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="27" column="66" lean-forward="true" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -347,52 +298,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leftPane.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tmp/tables.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newYearBookApp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yearBooks.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="108" column="153" selection-start-line="108" selection-start-column="143" selection-end-line="108" selection-end-column="153" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myEnrolledYearBooks.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -403,24 +312,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/viewYearBook.php">
+    <entry file="file://$PROJECT_DIR$/myYearBookApps.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" lean-forward="true" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allYearBooks.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="91" column="10" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="91" selection-end-column="10" />
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
@@ -431,20 +326,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myYearBookApps.php">
+    <entry file="file://$PROJECT_DIR$/profile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="585">
+          <caret line="66" column="40" lean-forward="true" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutUs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="102" selection-start-line="19" selection-start-column="102" selection-end-line="19" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leftPane.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yearBooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="96" selection-start-line="5" selection-start-column="96" selection-end-line="5" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="66" column="35" selection-start-line="66" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newYearBookApp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="150" column="31" selection-start-line="150" selection-start-column="31" selection-end-line="150" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding>
-            <element signature="n#button#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myEnrolledYearBooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="75" lean-forward="true" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allYearBooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="56" column="66" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewYearBook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="61" column="72" lean-forward="true" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
         </state>
       </provider>
     </entry>

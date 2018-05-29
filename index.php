@@ -63,10 +63,6 @@ include_once "config.php";
                     include_once "profile.php";
                     break;
 
-                case "gallery":
-                    include_once "gallery.php";
-                    break;
-
                 case "yearBooks":
                     include_once "yearBooks.php";
                     break;

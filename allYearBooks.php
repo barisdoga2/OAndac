@@ -43,6 +43,7 @@
                                 <td><?php echo $row["end_date"]; ?></td>
                                 <td>
                                     <?php
+
                                     if($enrollRequests->num_rows > 0){
                                         $enrollRequests = $enrollRequests->fetch_assoc();
                                         if($enrollRequests["status"] == YEARBOOK_ENROLL_WAITING)
@@ -51,9 +52,12 @@
                                             echo "<font color='red'>Reddedildi!</font>";
                                         else if($enrollRequests["status"] == YEARBOOK_ENROLL_APPROVED)
                                             echo "<font color='green'>Onaylandı!</font>";
-
                                     }else{
-                                        echo "<a href='index.php?task=yearBooks&subTask=enrollToYearBook&yearBookId=".$row["id"]."'>Kayıt İsteği Gönder</a>";
+                                        if($row["end_date"] != null) {
+                                            echo "Bu Yıllık Bitti!";
+                                        }else{
+                                            echo "<a href='index.php?task=yearBooks&subTask=enrollToYearBook&yearBookId=".$row["id"]."'>Kayıt İsteği Gönder</a>";
+                                        }
                                     }
                                     ?>
                                 </td>

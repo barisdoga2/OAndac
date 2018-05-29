@@ -1,3 +1,12 @@
+<?php
+
+$totalYearBooks = $conn->query("SELECT * FROM yearbooks")->num_rows;
+$totalEnrolledYearBooks = $conn->query("SELECT * FROM yearbook_apps_enrolls WHERE creator_id='".$_SESSION["id"]."'")->num_rows;
+$totalOwnedYearBooks = $conn->query("SELECT * FROM yearbooks WHERE creator_id='".$_SESSION["id"]."'")->num_rows;
+$totalYearBookApps = $conn->query("SELECT * FROM yearbook_apps WHERE creator_id='".$_SESSION["id"]."'")->num_rows;
+
+?>
+
 <div class="container">
     <div class="row">
         <div class="col-xl-3 col-sm-6 mb-3">
@@ -6,7 +15,7 @@
                     <div class="card-body-icon">
                         <i class="fa fa-fw fa-list"></i>
                     </div>
-                    <div class="mr-5">Sistemde Toplamda 11 Yıllık Mevcut!</div>
+                    <div class="mr-5">Sistemde Toplamda <?php echo $totalYearBooks; ?> Yıllık Mevcut!</div>
                 </div>
                 <a class="card-footer text-white clearfix small z-1" href="index.php?task=yearBooks&subTask=allYearBooks">
                     <span class="float-left">Mevcut Yıllıkları Görüntüle</span>
@@ -24,7 +33,7 @@
                     <div class="card-body-icon">
                         <i class="fa fa-fw fa-comments"></i>
                     </div>
-                    <div class="mr-5">Toplamda 0 Yıllığa Kaydınız Var</div>
+                    <div class="mr-5">Toplamda <?php echo $totalEnrolledYearBooks; ?> Yıllığa Kaydınız Var</div>
                 </div>
                 <a class="card-footer text-white clearfix small z-1" href="index.php?task=yearBooks&subTask=myEnrolledYearBooks">
                     <span class="float-left">Kayıtlı Yıllıklarımı Görüntüle</span>
@@ -41,7 +50,7 @@
                     <div class="card-body-icon">
                         <i class="fa fa-fw fa-comments"></i>
                     </div>
-                    <div class="mr-5">Sahip Olduğunuz 0 Yıllığınız Var</div>
+                    <div class="mr-5">Sahip Olduğunuz <?php echo $totalOwnedYearBooks; ?> Yıllığınız Var</div>
                 </div>
                 <a class="card-footer text-white clearfix small z-1" href="index.php?task=yearBooks&subTask=myYearBooks">
                     <span class="float-left">Yıllıklarımı Görüntüle ve Yönet</span>
@@ -58,7 +67,7 @@
                     <div class="card-body-icon">
                         <i class="fa fa-fw fa-comments"></i>
                     </div>
-                    <div class="mr-5">Mevcut 0 Yıllık Başvurunuz Var</div>
+                    <div class="mr-5">Mevcut <?php echo $totalYearBookApps; ?> Yıllık Başvurunuz Var</div>
                 </div>
                 <a class="card-footer text-white clearfix small z-1" href="index.php?task=yearBooks&subTask=myYearBookApps">
                     <span class="float-left">Yıllık Başvurularımı Görüntüle</span>
