@@ -30,6 +30,13 @@
                     <span class="nav-link-text">Profil</span>
                 </a>
             </li>
+
+            <li class="nav-item" data-toggle="tooltip" data-placement="right" title="YearBooks">
+                <a class="nav-link" href="index.php?task=yearBooks">
+                    <i class="fa fa-fw fa-area-chart"></i>
+                    <span class="nav-link-text">Yıllıklar</span>
+                </a>
+            </li>
             <?php
         }
     ?>

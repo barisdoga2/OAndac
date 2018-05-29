@@ -6,29 +6,29 @@ include_once "dbConnect.php";
 include_once "config.php";
 
 $registerFailed = false;
-$errorMsg = "";
+$infMsg = "";
 if(isset($_POST["register"])) {
 
     if ($conn->query("SELECT * FROM users WHERE email='" . $_POST["email"] . "' LIMIT 1")->num_rows == 0) {
-        $errorMsg = "";
+        $infMsg = "";
         if (strlen($_POST["name"]) < 2) {
-            $errorMsg = $errorMsg . "Isminiz 2 Karakterden Küçük Olamaz!</br>";
+            $infMsg = $infMsg . "Isminiz 2 Karakterden Küçük Olamaz!</br>";
             $registerFailed = true;
         }
         if (strlen($_POST["surname"]) < 2) {
-            $errorMsg = $errorMsg . "Soyadınız 2 Karakterden Küçük Olamaz!</br>";
+            $infMsg = $infMsg . "Soyadınız 2 Karakterden Küçük Olamaz!</br>";
             $registerFailed = true;
         }
         if (strlen($_POST["password"]) < 6) {
-            $errorMsg = $errorMsg . "Şifre 6 Karakterden Küçük Olamaz!</br>";
+            $infMsg = $infMsg . "Şifre 6 Karakterden Küçük Olamaz!</br>";
             $registerFailed = true;
         }
         if (strlen($_POST["email"]) < 6) {
-            $errorMsg = $errorMsg . "Email 6 Karakterden Küçük Olamaz!</br>";
+            $infMsg = $infMsg . "Email 6 Karakterden Küçük Olamaz!</br>";
             $registerFailed = true;
         }
         if ($_POST["password"] != $_POST["password2"]) {
-            $errorMsg = $errorMsg . "Parolalarınız Eşleşmiyor!</br>";
+            $infMsg = $infMsg . "Parolalarınız Eşleşmiyor!</br>";
             $registerFailed = true;
         }
 
@@ -44,7 +44,7 @@ if(isset($_POST["register"])) {
         }
     } else {
         $registerFailed = true;
-        $errorMsg = $errorMsg."Email Adresiniz Zaten Kullanımda!<a href='index.php?task=forgotPassword'>Şifrenizi mi unuttunuz?</a>";
+        $infMsg = $infMsg."Email Adresiniz Zaten Kullanımda!<a href='index.php?task=forgotPassword'>Şifrenizi mi unuttunuz?</a>";
     }
 }
 
@@ -92,7 +92,7 @@ if(isset($_POST["register"])) {
         <?php
         if($registerFailed){
             ?>
-            <div class="card card-register mx-auto breadcrumb"><?php echo $errorMsg; ?></div>
+            <div class="card card-register mx-auto breadcrumb"><?php echo $infMsg; ?></div>
             <?php
         }
         ?>

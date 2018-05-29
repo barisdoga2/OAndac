@@ -1,2 +1,9 @@
 <?php
 define("DEFAULT_PROFILE_PCITURE_LOCATION", "/images/defaultpp.jpg");
+define("YEARBOOK_APP_WAITING", 0);
+define("YEARBOOK_APP_REJECTED", 1);
+define("YEARBOOK_APP_APPROVED", 2);
+
+define("YEARBOOK_ENROLL_WAITING", 0);
+define("YEARBOOK_ENROLL_REJECTED", 1);
+define("YEARBOOK_ENROLL_APPROVED", 2);

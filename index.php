@@ -3,6 +3,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', TRUE);
 session_start();
 include_once "dbConnect.php";
+include_once "config.php";
 ?>
 
 <!DOCTYPE html>
@@ -64,6 +65,10 @@ include_once "dbConnect.php";
 
                 case "gallery":
                     include_once "gallery.php";
+                    break;
+
+                case "yearBooks":
+                    include_once "yearBooks.php";
                     break;
 
                 case "contact":
